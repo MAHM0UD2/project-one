@@ -28,4 +28,3 @@ test_run_dir
 
 .vscode/settings.json
 *.csv
-*.test
